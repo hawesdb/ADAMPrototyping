@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "better-world-175517",
+  "private_key_id": "198c214fd32c266c7da19f9c43b3f0524a021a76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCH7osoaklozg39\ng5OnyN9RyuDMtX3DK3cM5Af8aA5FNL4wJRhtTOb0C4HAGEh0tfkKlar64R3BngB3\ntHsMMb74rSqT780FAXOsbSLqInTw7EOaa9UrkNoESd5p6TsiP1fzgAreyIOXSph+\n+5aMcAqU0ax2UqkGKVqHDnzTF/dLVu8vCrpDIFMoNspRrPo0Kv9OnuiAqcgRPHgz\ndCQTkaZ/oW1W1bKG9HZFk7dKoWyFMSkcnmqD8U2LoigyC+G3wATdx1Ej46htKqna\n7g86XbW6tla+FBYH7P1adevrg1JGb93UaX1Botc3hKmKGBWlRSstwMoEFEr6wJ/9\nYcTgusxlAgMBAAECggEAFtWCeNKJ7FoYzYpJxnie0v2Sj7C5JIzrnbW8hbDxHL0E\nadABb3LopPw92of5u+lJoXaM10Hznq+tAm7F8MF2hA2KxnkU5o9c4A0hPVV2cXYu\n0QTmNUBK70d9Xis4rMMZQiUzLkNen45/WW1n18WGcYNbRjEShZ9yvpc3brpq5zO/\notgXcS4DM39hh4/p7XgSPxS8YzEcHzvsQQRvO5eaDzLs3xtTaRgA3dBkNHHQ5/ap\nm/HsHFsKVoMTLqhbbw9oNfZ8VjpFFA9sGov45H/1S9W2fFOoc1kNqsfBf+V0G3uR\nRs/i0S32Gdmym0tozyDwiGXep4N4Ag2GQuyoOI97LQKBgQC8q0MGXQID1uTJPCKM\nMTwFLOXBnvygWkTaoHEI0ezGoofDTpwSk+j9lnXSQPDzB3esDvrs595R/9PkD+nD\nXjtJ4FdPxLOChB6agRshmT8wjwQJYMNRqi3TlJA94820pTVNv4rxYdBs3hL7kU6E\nC73p+JJHSMYJsZ69f9+31t0iBwKBgQC4cTrfJPxfsxyi6HEGeiHLBCUboOFIWtu5\nFbSGwfY5WTqW/JIF+hTAJZyUlXeEon+qncyaFsfJia4XEumuAFgfn5e3OPHkDFWn\ndD0GUFbeYG+Ii1TLjSwtGiik2l2lm3gq32HMhKBGH99hQg82D4YBw4gPOLu4qHXM\nzrBGogWTMwKBgQCds5mmq/+PLgS2oGlQPacpvEmf+kC32DxNcmaJNM9xiVFp0z9p\n1/CcZzO8t0OwIMHLNApSE84lRG3c5+BByXZNXhQdPRG/OqhKBTikcO/8qs54+ETK\n8jCz9i5LTSsYoC9Z+Y0uDtCk70t2tBKpFRd9hqTeqNnAKJPDWiuqAxN76QKBgAeZ\nQp+m2m7m5isgAGgP6AyBIzY8LovYkmzRpBpZK1e5gVxvE2UDpI81/Xlxnvbr6u6Q\niblfbuOytGVm9hGhGgBThuCZi/2lNHItq8Xy0WFf/7hUZS3tpwBEr5/7DxifixfZ\nFCJk5GV/MqjDG/VSNmckMxrNb45wAkppyYFfc3NZAoGAJKI6dlDwBQXcRRDdsEfC\nHwtW8JJ2739R2jHRpKPQ+mYvNVhEApRp+mxB2cNhc7ji5lhHBGdf+c92yhw1UJSN\n2Lf4sUF76Ugr5KuZfgeOTtP8K+17tejN17phVNiw5tfkUXS4/1tsnoP2RLLD8MpV\nwl/vIadVwKooyA2ibDmZhs4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-sql-client@better-world-175517.iam.gserviceaccount.com",
+  "client_id": "117699883293722872109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-sql-client%40better-world-175517.iam.gserviceaccount.com"
+}

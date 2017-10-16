@@ -1,0 +1,35 @@
+[debug] [2017-09-12T02:09:05.652Z] ----------------------------------------------------------------------
+[debug] [2017-09-12T02:09:05.654Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Daniel\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-09-12T02:09:05.654Z] CLI Version:   3.10.1
+[debug] [2017-09-12T02:09:05.654Z] Platform:      win32
+[debug] [2017-09-12T02:09:05.654Z] Node Version:  v8.4.0
+[debug] [2017-09-12T02:09:05.654Z] Time:          Mon Sep 11 2017 22:09:05 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-09-12T02:09:05.654Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-09-12T02:09:05.663Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-09-12T02:09:05.664Z] > authorizing via signed-in user
+[debug] [2017-09-12T02:09:05.665Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/better-world-175517  
+ Mon Sep 11 2017 22:09:05 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-09-12T02:09:06.047Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-12T02:09:06.047Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/better-world-175517/tokens  
+ Mon Sep 11 2017 22:09:06 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-09-12T02:09:06.349Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Daniel\Desktop\B612\AsteroidEndpointTest'...
+[info] 
+[debug] [2017-09-12T02:09:06.352Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/better-world-175517  
+ Mon Sep 11 2017 22:09:06 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-09-12T02:09:06.632Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-12T02:09:06.633Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/529644969614/clients/_:getWebAppConfig  
+ Mon Sep 11 2017 22:09:06 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-09-12T02:09:07.060Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-12T02:09:07.091Z] TypeError: Cannot read property 'public' of undefined
+    at Server.<anonymous> (C:\Users\Daniel\AppData\Roaming\npm\node_modules\firebase-tools\lib\serve\hosting.js:34:17)
+    at Object.onceWrapper (events.js:314:30)
+    at emitNone (events.js:105:13)
+    at Server.emit (events.js:207:7)
+    at emitListeningNT (net.js:1349:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+[error] 
+[error] Error: An unexpected error has occurred.

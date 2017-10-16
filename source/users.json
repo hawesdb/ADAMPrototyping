@@ -1,0 +1,14 @@
+{
+	"data": {
+		"groups": {
+			"mainAdmin": {
+				"group_name": "Main Admins",
+				"group_description": "Head administrators, control over all",
+				"users": {
+				}
+			}
+		},
+		"users": {
+		}
+	}
+}
